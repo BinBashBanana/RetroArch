@@ -6,6 +6,10 @@
 - MENU: Add SSL support to the information list
 - IOS: Ensure webserver notice can be dismissed
 - VIDEO/SHADERS: Allow exact refresh rate sync with shader subframes
+- EMSCRIPTEN: Scale window to correct size
+- EMSCRIPTEN: Additional platform functions
+- EMSCRIPTEN/RWEBINPUT: Add touch input support
+- VIDEO/OpenGLES: Fix FP/sRGB FBO support
 
 # 1.20.0
 - AUDIO: Fix audio handling in case of RARCH_NETPLAY_CTL_USE_CORE_PACKET_INTERFACE
